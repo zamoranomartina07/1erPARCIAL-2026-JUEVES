@@ -6,5 +6,5 @@ def total_donas_fiesta(a, b):
     return total
 
 # Ejemplo de uso/prueba:
-# 3 donas por persona, 5 personas -> Total: 15 donas
-print(total_donas_fiesta(3, 5))
+# 4 donas por persona, 6 personas -> Total: 24 donas
+print(total_donas_fiesta(4, 6))
